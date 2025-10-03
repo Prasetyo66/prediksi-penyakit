@@ -1,0 +1,51 @@
+ID_Pasien,Usia,Jenis_Kelamin,Berat_Badan,Tinggi_Badan,Gejala,Penyakit,Obat,Pantangan_Makanan
+1,52,Pria,71,150,Pusing,Hipertensi,Amlodipine,Makanan asin
+2,27,Pria,77,185,Pusing,Flu,Paracetamol,Minuman dingin
+3,23,Wanita,91,151,Tidak ada,Asma,Inhaler,Debu & asap rokok
+4,55,Pria,82,181,Demam,Diabetes,Metformin,Makanan manis
+5,60,Pria,55,175,Batuk,Sehat,-,-
+6,46,Wanita,88,166,Tidak ada,Sehat,-,-
+7,55,Wanita,61,158,Tidak ada,Hipertensi,Amlodipine,Makanan asin
+8,43,Pria,74,154,Sesak,Diabetes,Metformin,Makanan manis
+9,59,Pria,46,182,Batuk,Flu,Paracetamol,Minuman dingin
+10,67,Pria,89,171,Batuk,Asma,Inhaler,Debu & asap rokok
+11,30,Pria,54,175,Demam,Sehat,-,-
+12,45,Pria,90,162,Batuk,Asma,Inhaler,Debu & asap rokok
+13,52,Wanita,79,171,Tidak ada,Sehat,-,-
+14,42,Pria,65,163,Pusing,Flu,Paracetamol,Minuman dingin
+15,60,Wanita,89,172,Batuk,Hipertensi,Amlodipine,Makanan asin
+16,33,Wanita,63,158,Pusing,Sehat,-,-
+17,35,Pria,77,161,Tidak ada,Diabetes,Metformin,Makanan manis
+18,39,Pria,75,171,Batuk,Sehat,-,-
+19,59,Pria,82,169,Batuk,Hipertensi,Amlodipine,Makanan asin
+20,39,Pria,90,175,Sesak,Flu,Paracetamol,Minuman dingin
+21,50,Pria,76,174,Tidak ada,Sehat,-,-
+22,40,Pria,91,167,Pusing,Hipertensi,Amlodipine,Makanan asin
+23,66,Pria,91,181,Batuk,Hipertensi,Amlodipine,Makanan asin
+24,54,Wanita,53,182,Pusing,Hipertensi,Amlodipine,Makanan asin
+25,63,Wanita,71,183,Sesak,Hipertensi,Amlodipine,Makanan asin
+26,28,Pria,79,159,Demam,Sehat,-,-
+27,69,Wanita,66,182,Pusing,Diabetes,Metformin,Makanan manis
+28,60,Wanita,54,157,Batuk,Diabetes,Metformin,Makanan manis
+29,50,Pria,60,165,Tidak ada,Asma,Inhaler,Debu & asap rokok
+30,54,Pria,69,180,Sesak,Diabetes,Metformin,Makanan manis
+31,46,Pria,59,174,Sesak,Asma,Inhaler,Debu & asap rokok
+32,45,Wanita,80,178,Pusing,Sehat,-,-
+33,70,Pria,54,172,Demam,Diabetes,Metformin,Makanan manis
+34,29,Wanita,55,154,Sesak,Flu,Paracetamol,Minuman dingin
+35,70,Wanita,94,168,Demam,Hipertensi,Amlodipine,Makanan asin
+36,63,Pria,90,164,Batuk,Asma,Inhaler,Debu & asap rokok
+37,55,Pria,61,167,Sesak,Diabetes,Metformin,Makanan manis
+38,67,Wanita,52,160,Batuk,Diabetes,Metformin,Makanan manis
+39,61,Wanita,67,163,Tidak ada,Asma,Inhaler,Debu & asap rokok
+40,50,Wanita,72,181,Demam,Diabetes,Metformin,Makanan manis
+41,22,Pria,62,166,Sesak,Hipertensi,Amlodipine,Makanan asin
+42,37,Pria,78,164,Demam,Hipertensi,Amlodipine,Makanan asin
+43,35,Pria,90,164,Batuk,Hipertensi,Amlodipine,Makanan asin
+44,42,Wanita,90,150,Sesak,Sehat,-,-
+45,42,Wanita,65,183,Sesak,Hipertensi,Amlodipine,Makanan asin
+46,54,Pria,62,164,Pusing,Flu,Paracetamol,Minuman dingin
+47,66,Pria,62,181,Sesak,Asma,Inhaler,Debu & asap rokok
+48,58,Wanita,70,162,Pusing,Hipertensi,Amlodipine,Makanan asin
+49,44,Pria,56,179,Batuk,Hipertensi,Amlodipine,Makanan asin
+50,55,Pria,56,170,Sesak,Asma,Inhaler,Debu & asap rokok
